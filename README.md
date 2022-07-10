@@ -10,7 +10,7 @@ Lo considero más como "capítulos" sueltos.
 
 
 
-## Dicionarios
+## [Dicionarios](https://github.com/cocoliso53/TutorialesCairo/tree/main/Diccionarios)
 
 Como tal los diccionarios en cairo no existen pero parce ser que la convención es llamar a un 
 array de `DictAcess` **diccionario**
