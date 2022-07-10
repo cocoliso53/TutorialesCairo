@@ -15,11 +15,8 @@ Lo considero más como "capítulos" sueltos.
 Como tal los diccionarios en cairo no existen pero parce ser que la convención es llamar a un 
 array de `DictAcess` **diccionario**
 
-### Intro diccionarios
-
-#### Aquí hay algo
-
-
 Ver también las guías/tutoriales oficiales de cairo relacionadas con el tema: 
 - [15-puzzle](https://www.cairo-lang.org/docs/hello_cairo/dict.html)
 - [Referencia](https://www.cairo-lang.org/docs/reference/common_library.html#dict)
+
+### [Intro diccionarios](https://github.com/cocoliso53/TutorialesCairo/blob/main/Diccionarios/Intro.md)
